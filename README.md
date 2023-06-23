@@ -7,7 +7,7 @@ Solución del problema: Para este problema, lo ideal fue inicializar una variabl
 Intrucciones de ejecución de solución:
 
   1. Abrir el link (https://www.hackerrank.com/challenges/sherlock-and-divisors/problem?isFullScreen=true).
-  2. Abrir el archivo SherlockAndDivisors.py y copiarlo.
+  2. Abrir el archivo SherlockAndDivisorssc.py y copiarlo.
   3. Sustituir el contenido de la consola que hay en la página con el que copiamos del archivo.
   4. Correr el código.
 
