@@ -11,4 +11,4 @@ Intrucciones de ejecución de solución:
   3. Sustituir el contenido de la consola que hay en la página con el que copiamos del archivo.
   4. Correr el código.
 
-Ejemplos de valores de entrada y salidas esperadas: Entrada: 2, 9 8 Salida: 0, 3, 3
+Ejemplos de valores de entrada y salidas esperadas: Entrada: 2, 9, 16 Salida: 0, 1, 4
